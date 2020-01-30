@@ -1,1 +1,0 @@
-# Star Jamie's World
