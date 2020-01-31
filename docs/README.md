@@ -9,4 +9,4 @@ Persevering, steadfast, & candor woman. In 2006, I graduated with an Associates 
 
 # Links to Repositories of my Projects
 [Level Up: Android app for trauma](https://github.com/deep-dive-coding-java-cohort-9/capstone-project-idea-jsmith440)
-[Liquid Courage Eliminator] (https://github.com/deep-dive-coding-java-cohort-9/android-project-idea-1-jsmith440) 
+[Liquid Courage Eliminator](https://github.com/deep-dive-coding-java-cohort-9/android-project-idea-1-jsmith440) 
